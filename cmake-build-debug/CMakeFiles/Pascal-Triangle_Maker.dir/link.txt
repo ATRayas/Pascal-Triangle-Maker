@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Pascal-Triangle_Maker.dir/main.cpp.o  -o Pascal-Triangle_Maker.exe -Wl,--out-implib,libPascal-Triangle_Maker.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

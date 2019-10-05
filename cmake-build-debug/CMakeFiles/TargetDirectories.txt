@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Alejandro/Documents/GitHub/Pascal-Triangle-Maker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Alejandro/Documents/GitHub/Pascal-Triangle-Maker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Alejandro/Documents/GitHub/Pascal-Triangle-Maker/cmake-build-debug/CMakeFiles/Pascal-Triangle_Maker.dir
