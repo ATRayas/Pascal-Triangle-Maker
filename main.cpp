@@ -23,12 +23,15 @@ int main() {
         int levelCounter = 0;
         if(depth == 0){
             cout << "0";
+            return 0;
         }
         if(depth == 1){
             cout << "1";
+            return 0;
         }
         if(depth == 2){
             cout << "1 1 1";
+            return 0;
         }
         //initial construction of tree that would't make sense with
         //rowMake method
